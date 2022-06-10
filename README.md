@@ -1,2 +1,2 @@
 # -publications
- Collection of reports/articles/publications of mine
+ Collection of my reports/articles/publications 
